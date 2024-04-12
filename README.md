@@ -1,4 +1,4 @@
-Linux kiosk mode or Single Application Mode as it's called also 
+Linux kiosk mode or Single Application Mode as it's also called
 
 The configuration defines the kiosk mode only on Wayland Session, so pay attention to this part
 
